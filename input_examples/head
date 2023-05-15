@@ -1,0 +1,7 @@
+%Chk=oh_h2o.irc_ts_.chk
+%NProc=2
+# b3lyp/6-31G(d,p) scf=xqc guess=read freq
+
+test
+
+0	1

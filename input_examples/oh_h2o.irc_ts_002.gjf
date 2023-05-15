@@ -1,0 +1,14 @@
+%OldChk=oh_h2o.irc_ts_001.chk
+%Chk=oh_h2o.irc_ts_002.chk
+%NProc=2
+# b3lyp/6-31G(d,p) scf=xqc guess=read freq
+
+IRC net coordinate: -1.60585 scf energy: -152.160783888
+
+0	1
+O	0.172937     -1.142466     -0.251350
+H	-0.017985     -1.286995     0.694384
+H	0.642134     0.718543     -0.132913
+O	-0.162027     1.114393     0.246945
+H	-0.793685     1.079901     -0.485035
+
